@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juxtapose", "Juxtapose.csproj", "{6EE09FCB-C56F-4E1F-B2D2-E448FD73C031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juxtapose.Tests", "..\Juxtapose.Tests\Juxtapose.Tests.csproj", "{5E460332-6A2D-46FD-8915-E9296260E7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EE09FCB-C56F-4E1F-B2D2-E448FD73C031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE09FCB-C56F-4E1F-B2D2-E448FD73C031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE09FCB-C56F-4E1F-B2D2-E448FD73C031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE09FCB-C56F-4E1F-B2D2-E448FD73C031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E460332-6A2D-46FD-8915-E9296260E7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E460332-6A2D-46FD-8915-E9296260E7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E460332-6A2D-46FD-8915-E9296260E7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E460332-6A2D-46FD-8915-E9296260E7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
